@@ -1,0 +1,3 @@
+# SQL
+
+Random SQL Queries :)
